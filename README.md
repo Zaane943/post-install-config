@@ -63,5 +63,18 @@ Step 3: Next, we're going assign this role full access before adding it. Be sure
 <img width="715" height="613" alt="screenshot 27" src="https://github.com/user-attachments/assets/80cd1b15-b39e-4dae-9f59-3265c9e862fb" />
 </p>
 <p>
-Step 4: Now, we're going to add a new department under the name of "SysAdmins" by going under agents -> Departments -> Add Department. Be sure to set the Parent setting to "Top Level Department." Leaving the rest as is, click "create Department
+Step 4: Now, we're going to add a new department under the name of "SysAdmins" by going under agents -> Departments -> Add Department. Be sure to set the Parent setting to "Top Level Department." Leaving the rest as is, click "create Department."
+</p>
+<p>
+<img width="738" height="269" alt="screenshot 28" src="https://github.com/user-attachments/assets/20f94a06-011c-4c6b-aa70-5746943a9971" />
+</p>
+<p>
+<img width="723" height="527" alt="screenshot 29" src="https://github.com/user-attachments/assets/0a826ccd-a157-4141-9d2d-5286cc5f0950" />
+</p>
+<p>
+Step 5: We are now going to configure a team under the name "Online Banking." Admin Panel -> Agents -> Teams -> Add Team
+</p>
+<p>
+
+
 
