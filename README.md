@@ -81,6 +81,26 @@ Step 5: We are now going to configure a team under the name "Online Banking." Ad
 Step 6: We're going to allow anyone to create tickets by going to Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets).
 </p>
 <p>
+<img width="722" height="282" alt="screenshot 31" src="https://github.com/user-attachments/assets/c3a45cab-843c-4199-95b0-c8b096feecf1" />
+</p>
+<p>
+<img width="720" height="639" alt="screenshot 32" src="https://github.com/user-attachments/assets/b4b3092b-b594-4fd5-a38c-0777b6e2a7a0" />
+</p>
+<p>
+<img width="485" height="291" alt="screenshot 33" src="https://github.com/user-attachments/assets/185f3fe0-2c4c-4193-82c8-568105f41f8e" />
+</p>
+<p>
+Step 7: Creating our first agent under the name "Jane Doe," we will be setting her email to Jane@lognpacific.com, username: Jane, and password: Password1.
+</p>
+<p>
+<img width="723" height="429" alt="screenshot 34" src="https://github.com/user-attachments/assets/7ade2a9d-4e9e-4956-be73-e185da33bbf9" />
+</p>
+<p>
+Step 8: Still setting up Jane's account, we're going to give her full access to everything by setting her role to "Supreme Admin" and department to "SysAdmin."
+</p>
+<p>
+
+
 
 
 
