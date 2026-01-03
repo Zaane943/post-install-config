@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="415" height="412" alt="screenshot19" src="https://github.com/user-attachments/assets/f365203a-dae0-4704-a994-59691c519796" />
 </p>
 <p>
-Now that we have the osTicket officially installed, we can go ahead and start getting familiar with the system. Shown above is the login page. We will be using the username: adminuser and password: Password1. Login Link:  http://localhost/osTicket/scp/login.php
+Now that we have the osTicket officially installed, we can go ahead and start getting familiar with the system. Shown above is the login page. We will be using the username: adminuser and password: Password1. Login http://localhost/osTicket/scp/login.php
 </p>
 <br />
 
