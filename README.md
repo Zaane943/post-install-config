@@ -72,7 +72,7 @@ Step 4: Now, we're going to add a new department under the name of "SysAdmins" b
 <img width="723" height="527" alt="screenshot 29" src="https://github.com/user-attachments/assets/0a826ccd-a157-4141-9d2d-5286cc5f0950" />
 </p>
 <p>
-Step 5: We are now going to configure a team under the name "Online Banking." Admin Panel -> Agents -> Teams -> Add Team
+Step 5: We are now going to configure a team under the name "Online Banking." Admin Panel -> Agents -> Teams -> Add New Team. Make sure you click "Creat Team" before proceeding.
 </p>
 <p>
 
