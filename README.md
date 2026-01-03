@@ -90,7 +90,7 @@ Step 6: We're going to allow anyone to create tickets by going to Admin Panel ->
 <img width="485" height="291" alt="screenshot 33" src="https://github.com/user-attachments/assets/185f3fe0-2c4c-4193-82c8-568105f41f8e" />
 </p>
 <p>
-Step 7: Creating our first agent under the name "Jane Doe," we will be setting her email to Jane@lognpacific.com, username: Jane, and password: Password1.
+Step 7: Creating our first agent under the name "Jane Doe," we will be setting her email to Jane@lognpacific.com, username: Jane, and password: Password1. Before moving on, make sure to uncheck both boxes in the password section.
 </p>
 <p>
 <img width="723" height="429" alt="screenshot 34" src="https://github.com/user-attachments/assets/7ade2a9d-4e9e-4956-be73-e185da33bbf9" />
@@ -99,6 +99,25 @@ Step 7: Creating our first agent under the name "Jane Doe," we will be setting h
 Step 8: Still setting up Jane's account, we're going to give her full access to everything by setting her role to "Supreme Admin" and department to "SysAdmin."
 </p>
 <p>
+<img width="718" height="333" alt="screenshot 35" src="https://github.com/user-attachments/assets/2a67bd22-6432-4248-aaa2-42cc8ce6a0e8" />
+</p>
+<p>
+Step 9: Finishing up Jane's account, we're going to set her team under "Online Banking."
+</p>
+<p>
+<img width="717" height="552" alt="screenshot 36" src="https://github.com/user-attachments/assets/dc9009d2-159b-442a-b6b2-03f483c39063" />
+</p>
+<p>
+<img width="487" height="292" alt="screenshot 37" src="https://github.com/user-attachments/assets/c7cb8a34-4979-4105-8c06-d3329cb0742f" />
+</p>
+<p>
+<img width="725" height="428" alt="screenshot 38" src="https://github.com/user-attachments/assets/5705aea5-1aea-4529-869f-088c824cd280" />
+</p>
+<p>
+Step 10: Creating our next agent under the name "John Doe," we will set his email to John@lognpacific.com, username: John, and Password: Password1. Same as Jane's be sure to make sure both boxes are unchecked in the password section. We will also set his department to "support" and his access to "view only."
+</p>
+<p>
+
 
 
 
