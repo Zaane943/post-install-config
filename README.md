@@ -193,8 +193,18 @@ Step 19: TGhe last thing we are going to do for this section is add a few help t
 </p>
 <p>
 Step 20: The first topic will be "Business Critical Outage," making the parent topic "Report a Problem."
-
-
+</p>
+<p>
+<img width="744" height="513" alt="screenshot 53" src="https://github.com/user-attachments/assets/952228fd-f613-460c-b022-1f5c312530fa" />
+</p>
+<p>
+Step 21: Our next help topic will be "Personal Computer Issues" under "Report a Problem" as well.
+</p>
+<p>
+<img width="728" height="517" alt="screenshot 54" src="https://github.com/user-attachments/assets/71c51f6a-fa86-4318-8c23-de1c00a27d28" />
+</p>
+<p>
+Step 22: With the last topic being "Equipment Request," under "General Inquiry," this step will close out this section. If you have made it this far, I will see you in the next section :-)
 
 
 
