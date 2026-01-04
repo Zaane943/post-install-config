@@ -117,7 +117,27 @@ Step 9: Finishing up Jane's account, we're going to set her team under "Online B
 Step 10: Creating our next agent under the name "John Doe," we will set his email to John@lognpacific.com, username: John, and Password: Password1. Same as Jane's be sure to make sure both boxes are unchecked in the password section. We will also set his department to "support" and his access to "view only."
 </p>
 <p>
-
+<img width="723" height="320" alt="screenshot 40" src="https://github.com/user-attachments/assets/d81f4723-06d0-465f-af7c-00ead3f70e0c" />
+</p>
+<p>
+After creating your name, Jane, and John, this is what your agents section should look like.
+</p>
+<p>
+<img width="719" height="262" alt="screenshot 41" src="https://github.com/user-attachments/assets/61235f81-3e7e-47c0-a67e-81caa568bb58" />
+</p>
+<p>
+Step 11: Now shifting gears over to the agents panel, we are going to create a couple of users.
+</p>
+<p>
+<img width="483" height="297" alt="screenshot 42" src="https://github.com/user-attachments/assets/ca93ac54-2f36-418c-b91e-ad8250869d3c" />
+</p>
+<p>
+<img width="724" height="308" alt="screenshot 43" src="https://github.com/user-attachments/assets/3fcabeeb-64cd-4c4e-83d2-1933792b41c0" />
+</p>
+<p>
+Step 12: Starting with Karen, we are just going to add her name and email address (Karen@lognpacific.com).
+</p>
+<p>
 
 
 
