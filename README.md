@@ -154,6 +154,36 @@ Step 14: Just like Karen's, we are only going to fill out Ken's name and email a
 </p>
 <p>
 After creating them both, this is what your users section should look like. 
+</p>
+<p>
+<img width="732" height="274" alt="screenshot 44" src="https://github.com/user-attachments/assets/6c5ea0de-b579-45a0-86be-458c03c04c10" />
+</p>
+<p>
+Step 15: Shifting back over to the admin panel, we are now going to configure our SLAs. Creating a Sev-A, Sev-B, and Sev-C.
+</p>
+<p>
+<img width="731" height="541" alt="screenshot 45" src="https://github.com/user-attachments/assets/7870592e-8370-439b-b96c-e2548cb0627f" />
+</p>
+<p>
+Step 16: Starting with Sev-A being the most crusial, we are going to set the grace period to 1 hr, and the schedule to 24/7.
+</p>
+<p>
+<img width="729" height="537" alt="screenshot 47" src="https://github.com/user-attachments/assets/cd531da0-3af1-488c-ac99-d77b286964f6" />
+</p>
+<p>
+Step 17: Now creating Sev-B, we are going to give the grace period 4 hrs and the schedule still 24/7.
+</p>
+<p>
+<img width="727" height="538" alt="screenshot 49" src="https://github.com/user-attachments/assets/50e909be-56e3-457f-b46b-2a5d3ee8f30b" />
+</p>
+<p>
+Step 18: And lastly, we're creating Sev-C with a grace period of 8 hrs, and the schedule being Mon-Fri 8am-5pm with U.S Holidays.
+</p>
+<p>
+<img width="730" height="364" alt="screenshot 50" src="https://github.com/user-attachments/assets/4bcc1f4f-c42a-4a38-813c-e85490ca6387" />
+</p>
+<p>
+Your SLA section should consist of all three now.
 
 
 
