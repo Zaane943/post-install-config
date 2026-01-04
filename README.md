@@ -138,6 +138,23 @@ Step 11: Now shifting gears over to the agents panel, we are going to create a c
 Step 12: Starting with Karen, we are just going to add her name and email address (Karen@lognpacific.com).
 </p>
 <p>
+<img width="725" height="277" alt="screenshot 57" src="https://github.com/user-attachments/assets/5a0c272f-36c3-4036-96ab-aba1ee1fcf5d" />
+</p>
+<p>
+Step 13: After creating Karen, we are going to create Ken.
+</p>
+<p>
+<img width="485" height="294" alt="screenshot 58" src="https://github.com/user-attachments/assets/40866788-0548-4447-86ca-ed53b0223468" />
+</p>
+<p>
+Step 14: Just like Karen's, we are only going to fill out Ken's name and email address (Ken@lognpacific.com).
+</p>
+<p>
+<img width="720" height="297" alt="screenshot 59" src="https://github.com/user-attachments/assets/e73df5cf-6eb8-457b-9537-0c911b99904c" />
+</p>
+<p>
+After creating them both, this is what your users section should look like. 
+
 
 
 
