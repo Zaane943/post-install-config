@@ -21,13 +21,21 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Windows 10</b> (21H2)
 </p>
 <p>
-Post-Install Configuration Objectives
+<h2>Post-Install Configuration Objectives </h2>
 </p>
 <p>
-1. Establish user and agent roles- Configure agents, teams, and permissions
+1. Establish user and agent roles- Configure agents, teams, and permissions.
+</p>
+<p>
 2. Define Ticket Categories and Priorities- Set up help topics, ticket priorities, and SLAs to ensure requests are categorized correctly and handled based on urgency.
+</p>
+<p>
 3. Enable email and ticketing and notifications
+</p>
+<p>
 4. Customize intake forms and workflow
+</p>
+<p>
 5. Validate and secure the osTicket system- Test ticket submission, assignment, communication, and resolution workflows, securing the system by finalizing permissions
 
 <h2>Configuration Steps</h2>
