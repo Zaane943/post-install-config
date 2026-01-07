@@ -24,10 +24,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives </h2>
 </p>
 <p>
-1. Establish user and agent roles- Configure agents, teams, and permissions.
+1. Establish user and agent roles- Configure agents, teams, and permissions
 </p>
 <p>
-2. Define Ticket Categories and Priorities- Set up help topics, ticket priorities, and SLAs to ensure requests are categorized correctly and handled based on urgency.
+2. Define Ticket Categories and Priorities- Set up help topics, ticket priorities, and SLAs to ensure requests are categorized correctly and handled based on urgency
 </p>
 <p>
 3. Enable email and ticketing and notifications
